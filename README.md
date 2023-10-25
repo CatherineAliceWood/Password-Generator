@@ -1,5 +1,5 @@
 # Password Generator
-[https://catherinealicewood.github.io/Password-Generator/]
+[https://catherinealicewood.github.io/Password-Generator/](https://catherinealicewood.github.io/Password-Generator/)
 ## Created as part of the Scrimba Frontend Web Dev Career Path
 
 ### Notes:
